@@ -2,7 +2,7 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.8
+Version:            1.0.9
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       7.0
@@ -418,4 +418,8 @@ body {
 
 .wp-block-verse.has-background {
     padding: 1.25em 2.375em;
+}
+
+.wp-block-preformatted.has-background {
+    padding: 1em;
 }
