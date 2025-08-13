@@ -2,7 +2,7 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.14
+Version:            1.0.15
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       7.0
@@ -432,4 +432,9 @@ body {
 .wp-block-archives-list a {
     font-weight: 600;
     color: var(--dt-secondary-color);
+}
+
+.wp-block-archives-list a:hover, 
+.wp-block-archives-list a:focus {
+    color: var(--dt-main-color);
 }
