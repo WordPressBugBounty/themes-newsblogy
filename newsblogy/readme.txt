@@ -3,7 +3,7 @@ Contributors: DesertThemes
 Requires at least: 4.7
 Tested up to: 6.8
 Requires PHP: 7.0
-Stable tag: 1.0.18
+Stable tag: 1.0.19
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, e-commerce, entertainment, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, featured-images, featured-image-header, flexible-header, post-formats, rtl-language-support, translation-ready, theme-options, threaded-comments, footer-widgets
@@ -80,6 +80,9 @@ License: Creative Commons Zero, CC0 Public Domain
 License: Creative Commons Zero
 
 == Changelog ==
+
+@version 1.0.19
+* Style improvements - Block Outline Button
 
 @version 1.0.18
 * Style improvements - Block Button
