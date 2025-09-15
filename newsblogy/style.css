@@ -2,7 +2,7 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.19
+Version:            1.0.20
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       7.0
@@ -451,4 +451,8 @@ a.wp-block-button__link:focus {
 
 .wp-block-button.is-style-outline a.wp-block-button__link {
     color: var(--dt-main-color);
+}
+
+.wp-block-latest-comments {
+    padding-left: 0;
 }
