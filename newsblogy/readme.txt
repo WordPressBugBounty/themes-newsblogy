@@ -1,9 +1,9 @@
 === NewsBlogy ===
 Contributors: DesertThemes
 Requires at least: 4.7
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.0
-Stable tag: 1.0.22
+Stable tag: 1.0.39
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, e-commerce, entertainment, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, featured-images, featured-image-header, flexible-header, post-formats, rtl-language-support, translation-ready, theme-options, threaded-comments, footer-widgets
@@ -80,6 +80,57 @@ License: Creative Commons Zero, CC0 Public Domain
 License: Creative Commons Zero
 
 == Changelog ==
+
+@version 1.0.39
+* Style improvements - Block Categories
+
+@version 1.0.38
+* Style improvements - Block Button
+
+@version 1.0.37
+* Style improvements - Block Button
+
+@version 1.0.36
+* Style improvements - Woocommerce Address Title
+
+@version 1.0.35
+* Style improvements - Footer Block Cart Button
+
+@version 1.0.34
+* Style improvements - Footer Block Cart Button
+
+@version 1.0.33
+* Style improvements - Footer Mini Cart Widget Badge
+
+@version 1.0.32
+* Tested - By WordPress 6.9
+
+@version 1.0.31
+* Style improvements - Footer Cart Widget Image
+
+@version 1.0.30
+* Style improvements - Footer Cart Widget Image
+
+@version 1.0.29
+* Style improvements - Footer Cart Widget Amount
+
+@version 1.0.28
+* Style improvements - Footer Cart Widget Checkout Button Hover & Focus
+
+@version 1.0.27
+* Style improvements - Footer Cart Widget Cart Button Hover & Focus
+
+@version 1.0.26
+* Style improvements - Footer Cart Widget Cart Button
+
+@version 1.0.25
+* Style improvements - Footer Product List
+
+@version 1.0.24
+* Style improvements - Footer Product List
+
+@version 1.0.23
+* Tested - By WordPress 6.8.3
 
 @version 1.0.22
 * Style improvements - Footer Block Latest Comments

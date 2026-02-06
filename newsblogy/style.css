@@ -2,8 +2,8 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.22
-Tested up to:       6.8
+Version:            1.0.39
+Tested up to:       6.9
 Requires at least:  4.7
 Requires PHP:       7.0
 Author:             DesertThemes
@@ -463,4 +463,62 @@ a.wp-block-button__link:focus {
 
 .dt_footer .wp-block-latest-comments li a:not(:hover, :focus) {
     color: #fff;
+}
+
+.dt_footer ul.product_list_widget li .woocommerce-Price-amount {
+    color: #fff;
+}
+
+.dt_footer ul.product_list_widget li {
+    border-bottom: none;
+}
+
+.dt_footer .widget_shopping_cart .button:not(.checkout):not(.add_to_cart_button) {
+    background-color: var(--dt-main-color);
+}
+
+.dt_footer .widget_shopping_cart .button:not(.checkout):not(.add_to_cart_button):hover,
+.dt_footer .widget_shopping_cart .button:not(.checkout):not(.add_to_cart_button):focus {
+        background-color: var(--dt-main-color) !important;
+}
+
+.dt_footer .widget_shopping_cart a.checkout:hover, 
+.dt_footer .widget_shopping_cart a.checkout:focus {
+        background-color: var(--dt-main-color) !important;
+}
+
+.dt_footer .widget_shopping_cart span.amount {
+    color: var(--dt-text-color);
+}
+
+.dt_footer .widget_shopping_cart li img {
+   object-fit: contain !important;
+   padding-right: 10px;
+}
+
+.dt_footer .widget  .wc-block-mini-cart__badge {
+    color: #fff;
+}
+
+.dt_footer .widget .wc-block-cart-link {
+    color:#fff;
+    background: var(--dt-main-color);
+}
+
+.dt_footer .widget .wc-block-cart-link:hover, 
+.dt_footer .widget .wc-block-cart-link:focus {
+    text-decoration: none;
+}
+
+.woocommerce-account .woocommerce-Address-title h2 {
+    font-size: 4rem;
+}
+
+.wp-block-button.is-style-outline a.wp-block-button__link {
+    border-color: inherit;
+    background: transparent
+}
+
+.wp-block-categories-list.has-background {
+    padding: 1rem;
 }
