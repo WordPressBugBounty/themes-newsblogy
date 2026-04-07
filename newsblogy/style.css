@@ -2,7 +2,7 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.46
+Version:            1.0.47
 Tested up to:       6.9
 Requires at least:  4.7
 Requires PHP:       7.0
@@ -537,4 +537,9 @@ a.wp-block-button__link:focus {
 
 .woocommerce .summary .product_meta>span a {
     text-decoration: none;
+}
+
+table.wc-block-cart-items .wc-block-cart-items__header th {
+    font-size: 1.6rem;
+    font-weight: 700;
 }
