@@ -2,7 +2,7 @@
 Theme Name: 	   NewsBlogy
 Text Domain: 	   newsblogy
 Template: 			newsmunch
-Version:            1.0.50
+Version:            1.0.51
 Tested up to:       6.9
 Requires at least:  4.7
 Requires PHP:       7.0
@@ -555,4 +555,8 @@ table.wc-block-cart-items .wc-block-cart-items__header th {
 
 .wp-block-woocommerce-customer-account.has-background {
     padding: 1rem;
+}
+
+.wp-block-woocommerce-customer-account a:focus {
+    text-decoration: underline !important;
 }
